@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     private EarthquakeAdapter adapter;
     private static final int EARTHQUAKE_LOADER_ID = 1;
     private TextView emptyView;
+//asdfghjk
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -91,5 +92,5 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
             startActivity(intent);
         }
     }
-
+/*hsdjkbfksdfuewfkjskdfw*/
 }
