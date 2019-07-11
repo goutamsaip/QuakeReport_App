@@ -18,6 +18,7 @@ import android.net.NetworkInfo;
 import android.content.Context;
 import java.util.ArrayList;
 
+//rggfgfgfgf
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<ArrayList<Earthquake>> {
 
     private static final String url = "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&orderby=time&minmag=6&limit=10";
